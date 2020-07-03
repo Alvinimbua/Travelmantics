@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797971777427",
+    "firebase_url": "https://travelmantics-e92f3.firebaseio.com",
+    "project_id": "travelmantics-e92f3",
+    "storage_bucket": "travelmantics-e92f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797971777427:android:4027b862dfe7e8e62a0a66",
+        "android_client_info": {
+          "package_name": "com.waimu.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797971777427-a2v1pa3b1j11g4e02qj2btenfjrs5720.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKTFOeSFa9_tj0qbNUHunZNzg3ya68wjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797971777427-a2v1pa3b1j11g4e02qj2btenfjrs5720.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
